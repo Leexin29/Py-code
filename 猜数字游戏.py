@@ -8,4 +8,6 @@ else:
 print("游戏结束喽，不玩了")
 
 
+
+
 input("\n\nPress the enter key to exit.")
